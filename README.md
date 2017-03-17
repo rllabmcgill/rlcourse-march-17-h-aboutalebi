@@ -27,4 +27,6 @@ So, the UCB with c=0.01 has the best performance. As it can be seen, when we cha
 
 the last two figures are the comparison of UCB with epsilon greedy algorithms. It is obvious that UCB has much better learning curve with good choice of parameter compared with epsilon greedy.
 
+![b5](https://cloud.githubusercontent.com/assets/5707322/24043264/34fc4126-0aec-11e7-87ac-49d3fcd325bd.png)
+![b4](https://cloud.githubusercontent.com/assets/5707322/24043265/3506923e-0aec-11e7-9038-6f95439a9943.png)
 
