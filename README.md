@@ -8,4 +8,8 @@ Here is the graph of greedy algorithm wih different epsilon. Note that the epsil
 
 ![b1](https://cloud.githubusercontent.com/assets/5707322/24042767/d59b7fd2-0ae9-11e7-8b86-8c97894b29da.png)
 
-As it can be seen, pure greedy stays on its first choice, however, epsilon greedy eventualy reaches best action. If we set epsilon higher, then the learning curve is faster though it might have poor performance in the beggining.
+As it can be seen, pure greedy stays on its first choice, however, epsilon greedy eventualy reaches best action. If we set epsilon higher, then the learning curve is faster though it might have poor performance in the beggining. Here is a graph when variance of reward is 0.1:
+
+![b2](https://cloud.githubusercontent.com/assets/5707322/24042991/d25bbba6-0aea-11e7-96ad-2daee176564e.png)
+
+
