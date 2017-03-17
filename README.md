@@ -12,4 +12,9 @@ As it can be seen, pure greedy stays on its first choice, however, epsilon greed
 
 ![b2](https://cloud.githubusercontent.com/assets/5707322/24042991/d25bbba6-0aea-11e7-96ad-2daee176564e.png)
 
+Here is for variance 0.01:
+
+
+![b3](https://cloud.githubusercontent.com/assets/5707322/24043057/0db71858-0aeb-11e7-848a-a94c0989b153.png)
+
 
