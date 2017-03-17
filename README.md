@@ -21,3 +21,10 @@ As it can be seen when varianc decreases, the gap between epsilon greedy with 0.
 
 Now Let's see the performance UBC on bandit by assigning different c values.
 
+![b6](https://cloud.githubusercontent.com/assets/5707322/24043154/9e9216a2-0aeb-11e7-9a1f-5f7628b9e312.png)
+
+So, the UCB with c=0.01 has the best performance. As it can be seen, when we change c to high value like 10 or low value like 0.0001 the performance drops. We have the poorest performnce with c=0.0001, as by using this parameter in UBC, UBC behaves like pure Greedy algorithm.
+
+the last two figures are the comparison of UCB with epsilon greedy algorithms. It is obvious that UCB has much better learning curve with good choice of parameter compared with epsilon greedy.
+
+
